@@ -8,12 +8,10 @@
 🌱 I’m focused on:
 - Mobile app development using Flutter
 - Expanding my cloud computing knowledge
+- Learning with AI for smarter apps
 - Building clean and maintainable code
 
 ✨ Let’s collaborate and bring ideas to life!
-
-
-- 🔭 I’m currently working on [test](sample)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
