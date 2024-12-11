@@ -6,11 +6,15 @@
 - After a break to focus on my family, I’m back and reskilling for the next big step in my career.
 - I’m on a journey to combine my love for coding with new skills in mobile and web app development.
 
+<br>
+
 🌱 I’m focused on:
 - Mobile app development using Flutter
 - Expanding my cloud computing knowledge
 - Learning with AI for smarter apps
 - Building clean and maintainable code
+
+<br>
 
 ✨ Let’s collaborate and bring ideas to life!
 
