@@ -14,8 +14,6 @@
 - Learning with AI for smarter apps
 - Building clean and maintainable code
 
-<br>
-
 ✨ Let’s collaborate and bring ideas to life!
 
 <h3 align="left">Languages and Tools:</h3>
