@@ -5,7 +5,7 @@
 - I’m on a journey to combine my love for coding with new skills in mobile and web app development.
 
 🌱 I’m focused on:
-- Mobile app development using ReactNatibe
+- Mobile app development using ReactNative
 - Expanding my cloud computing knowledge
 - Learning with AI for smarter apps
 - Building clean and maintainable code
