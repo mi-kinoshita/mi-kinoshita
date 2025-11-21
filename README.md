@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi there! I'm MK</h1>
-<h3 align="center">A developer and a mom of two💕, based in Tokyo.</h3>
+<h3 align="center">A Frontend developer based in Tokyo.</h3>
 
 🚀 Aspiring to build impactful digital experiences!
 - I’m on a journey to combine my love for coding with new skills in mobile and web app development.
 
 🌱 I’m focused on:
-- Mobile app development using Flutter
+- Mobile app development using ReactNatibe
 - Expanding my cloud computing knowledge
 - Learning with AI for smarter apps
 - Building clean and maintainable code
