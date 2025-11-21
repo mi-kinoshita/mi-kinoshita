@@ -14,8 +14,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
- <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,java,flutter" />
+ <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind," />
 </p>
 <p align="left">
- <img src="https://skillicons.dev/icons?i=php,firebase,ps,ai,figma" />
+ <img src="https://skillicons.dev/icons?i=supabase,firebase,ps,ai,figma" />
 </p>
