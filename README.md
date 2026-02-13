@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there! I'm MK</h1>
+<h1 align="center">👋 Hi there! I'm Mia</h1>
 <h3 align="center">A Frontend developer based in Tokyo.</h3>
 
 🚀 Aspiring to build impactful digital experiences!
