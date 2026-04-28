@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there! I'm Mia</h1>
-<h3 align="center">A Frontend developer based in Tokyo.</h3>
+<h3 align="center">UI/UX Designer @ Tokyo</h3>
 
 🚀 Aspiring to build impactful digital experiences!
 - I’m on a journey to combine my love for coding with new skills in mobile and web app development.
